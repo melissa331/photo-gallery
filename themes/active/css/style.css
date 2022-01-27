@@ -3,10 +3,10 @@ COLOR PALETTE WITH CSS VARIABLES
 ----------------------------------------- */   
 
 :root {
-    --main-bg-color: rgb(255, 255, 255);
+    --main-bg-color: rgb(214, 176, 150);
     --main-fg-color: rgb(1, 35, 70);
-    --titles-color: #1c0263;
-    --bodytext-color: #444444;
+    --titles-color: #361905;
+    --bodytext-color: #80451e;
   }
   
  body {
@@ -26,6 +26,7 @@ COLOR PALETTE WITH CSS VARIABLES
 img {
     max-width: 100%;
     height: auto;
+    
 }
 
 /* --------------------------------------
